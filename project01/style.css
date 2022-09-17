@@ -9,14 +9,14 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 110vh;
+    height: 100vh;
     text-align: center;
     background: url(./img.jpg) no-repeat center center/cover;
 }
 
 .container{
     width: 800px;
-    height: 450px;
+    height: 350px;
 }
 .header{
     font-size: 1.2rem;
